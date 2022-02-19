@@ -1,0 +1,63 @@
+{
+  "_from": "beerq@1.0.1",
+  "_id": "beerq@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-5H3TUbQe0ZIdMllysnDgT3hGSltNQvh+FetD0oOzRPBPFWpIamCAGgeQiY+xmlmCKh3IxOKFGBoC4WfqcjMPEw==",
+  "_location": "/beerq",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "beerq@1.0.1",
+    "name": "beerq",
+    "escapedName": "beerq",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/beerq/-/beerq-1.0.1.tgz",
+  "_shasum": "88cfb75756640b9951f355904dd4739b7885a9e3",
+  "_spec": "beerq@1.0.1",
+  "_where": "C:\\Users\\smith\\Documents\\My Web Sites\\Fruit Smash\\Fruit Smash",
+  "author": {
+    "name": "srebughini"
+  },
+  "bugs": {
+    "url": "https://github.com/srebughini/BEERQ/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mocha": "^8.3.1"
+  },
+  "deprecated": false,
+  "description": "Library to generate beer quotes",
+  "devDependencies": {},
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "homepage": "https://github.com/srebughini/BEERQ",
+  "keywords": [
+    "beer",
+    "quotes",
+    "daily",
+    "motivation",
+    "quote",
+    "inspiration"
+  ],
+  "license": "GPL-3.0",
+  "main": "./src/beerq.js",
+  "name": "beerq",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srebughini/BEERQ.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "version": "1.0.1"
+}

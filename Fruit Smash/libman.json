@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "defaultProvider": "filesystem",
+  "libraries": [
+    {
+      "library": "node_modules/beerq",
+      "destination": "wwwroot/lib/beerq/",
+      "files": [
+        ".travis.yml",
+        "LICENSE",
+        "package.json",
+        "README.md"
+      ]
+    }
+  ]
+}
