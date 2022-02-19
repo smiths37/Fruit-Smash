@@ -17,7 +17,7 @@ namespace Fruit_Smash.Controllers
             fruitSmash.CanImageUrl = "/images/cans.png";
             fruitSmash.PackImageUrl = "/images/pack.jpg";
             fruitSmash.HeroImageUrl = "/images/hero.jpg";
-            fruitSmash.HeroImageMobileUrl = "/images/hero-mobile.webp";
+            fruitSmash.HeroImageMobileUrl = "/images/hero-mobile.webp";         //I got this and the tablet image from the fruit smash website, since I couldn't make the main hero image line up well on mobile or tablet
             fruitSmash.HeroImageTabletUrl = "/images/hero-tablet.png";
             fruitSmash.TagLineHeading = "Say Bye";
             fruitSmash.TagLineSubHeading = "To Basic Selterzing";
